@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Super Market App created using React 18.2.0 and react-redux 8.0.5 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
