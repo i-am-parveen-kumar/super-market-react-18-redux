@@ -1,0 +1,35 @@
+.table-nutrition {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-nutrition thead {
+    background-color: #2b8379;
+    border: 1px solid #fff;
+    border-top: 0;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.table-nutrition thead tr th {
+    padding: 15px;
+}
+
+.table-nutrition tbody td {
+    padding: 12px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.table-nutrition tbody td:last-child {
+    text-align: center;
+}
+
+.table-nutrition tbody tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.table-nutrition tbody tr {
+    border: 1px solid #fff;
+}

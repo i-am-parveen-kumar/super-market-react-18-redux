@@ -1,0 +1,26 @@
+.tab-header {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+    padding: 8px;
+    text-align: center;
+}
+
+.tab-nav {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+
+}
+
+.active-tab {
+    border-bottom: 7px solid;
+    border-color: #2b8379;
+}
+
+.storage-instructions {
+    font-weight: bold;
+    font-size: 25px;
+}

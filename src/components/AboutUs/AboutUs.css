@@ -1,0 +1,28 @@
+.container {
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 0;
+    gap: 20px;
+}
+
+.home-text {
+    padding-top: 50px;
+}
+
+.home-text p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.img-container {
+    padding-top: 30px;
+    border-radius: 10px;
+}
+
+.rounded {
+    border-radius: 30px;
+}

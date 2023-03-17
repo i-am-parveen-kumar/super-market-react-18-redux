@@ -1,0 +1,40 @@
+.container {
+    max-width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-bottom: 0;
+    gap: 20px;
+}
+
+.home-text {
+    padding-top: 50px;
+}
+
+.home-text p {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.start-shopping-btn {
+    width: 50px;
+    background-color: #2A8379;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 13px 40px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: white;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.img-container {
+    padding-top: 30px;
+    border-radius: 10px;
+}
+
+.rounded {
+    border-radius: 30px;
+}

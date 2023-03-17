@@ -1,0 +1,14 @@
+.tbody-tr td:first-child {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+}
+
+.tbody-tr td {
+    text-align: center;
+}
+
+.tbody-tr {
+    border: 1px solid #fff;
+}

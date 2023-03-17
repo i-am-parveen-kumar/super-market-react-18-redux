@@ -1,0 +1,39 @@
+.cart-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding-bottom: 0;
+}
+
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cart-table thead {
+    background-color: #970e3d;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.th-product {
+    text-align: left;
+}
+
+.cart-table th {
+    padding: 15px;
+}
+
+.table-footer-th {
+    background-color: #970e3d;
+    color: #fff;
+}
+
+.your-cart-text {
+    font-size: 2.2em;
+}
+
+.no-item-text {
+    font-size: 1.2em;
+    line-height: 30px;
+    font-weight: 450;
+}
